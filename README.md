@@ -174,7 +174,8 @@ The project connects embedded devices to a web monitoring environment, covering 
 
 ## A little more about me
 
-```python
+<pre>
+<code>
 glauber = {
     "likes_building": [
         "backend APIs",
@@ -201,3 +202,83 @@ glauber = {
 
     "goal": "Build cool things that are actually useful."
 }
+</code>
+</pre>
+
+---
+
+## Experience
+
+**Embedded Systems Resident — EmbarcaTech / Softex**  
+`Mar 2025 — Mar 2026`
+
+Worked on embedded systems and IoT solutions, developing firmware in C for microcontrollers and integrating sensors, actuators and communication technologies for real-time data collection and processing.
+
+---
+
+## Education
+
+**Systems Analysis and Development — IFPI**  
+`2024 — 2026`
+
+**Technical Degree in Computer Science / Informatics — IFPI**  
+`2021 — 2023`
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=GlaugTbest&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaugTbest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=GlaugTbest&theme=tokyonight&hide_border=true"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=GlaugTbest&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+/>
+
+</div>
+
+---
+
+## Let's connect
+
+<div align="center">
+
+I'm always interested in talking about software, AI, mobile development, backend, IoT or interesting projects.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/glauber-giordano/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:contatoglauber98@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/GlaugTbest">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>building cool and useful things, one project at a time</sub>
+
+</div>
