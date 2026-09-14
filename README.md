@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/anime.gif" width="100%" alt="anime gif banner" />
+<img src="./assets/fullmetal alchemist my cuties GIF.gif" width="100%" alt="anime gif banner" />
 
 <br><br>
 
